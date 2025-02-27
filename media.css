@@ -1,0 +1,77 @@
+@media screen and (max-width:775px) {
+    nav .logo{
+        width: 40%;
+    }  
+   
+    .menu {
+        display: none;
+    }
+    .nav-toggle {
+        display: block;
+        color: white;
+        font-size: 20px;
+    }
+    section h3{
+        font-size: 30px;
+
+        letter-spacing: 2px;
+      
+      }
+    
+    section h1{
+        margin: 30px 0 20px 0;
+        font-size: 35px;
+        font-weight: 600;
+ 
+      }
+
+      section p {
+        font-size: 20px;
+      }
+      header {
+    background-position: top center;
+      }
+ 
+}
+@media screen and (max-width:500px){
+    nav .logo{
+        width: 55%;
+    }  
+   
+    .menu {
+        display: none;
+    }
+    .nav-toggle {
+        display: block;
+        color: white;
+        font-size: 20px;
+    }
+    section h3{
+        font-size: 7vw;
+
+        letter-spacing: 1px;
+      
+      }
+    
+    section h1{
+        margin: 30px 0 20px 0;
+        font-size: 9vw;
+        font-weight: 500;
+ 
+      }
+
+      section p {
+        font-size: 17px;
+      }
+      header {
+    background-position: top center;
+      }
+
+      section a {
+        padding: 11px 29px;
+        font-size: 12px;
+        font-weight: 400;
+     
+      }
+      
+}
